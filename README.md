@@ -17,9 +17,12 @@ In this analysis, the relationship between the most_ads_day variable and the con
 -   Compared to other days, Monday stands out as a more effective day for conversions.
 -   This finding suggests that focusing on Monday in marketing strategies could be beneficial for increasing conversion rates.
 
-![bar2](https://github.com/user-attachments/assets/c562cd88-87fc-4661-b9cd-e06d493e612b)
-![box1](https://github.com/user-attachments/assets/533c240d-18fd-4a7e-b8f5-cf82e81c676c)
+  
 ![bar1](https://github.com/user-attachments/assets/2efc0504-d76a-4971-879c-a6d6161f5ded)
+
+![box1](https://github.com/user-attachments/assets/533c240d-18fd-4a7e-b8f5-cf82e81c676c)
+
+![bar2](https://github.com/user-attachments/assets/c562cd88-87fc-4661-b9cd-e06d493e612b)
 
 The conversion rate is a critical metric that measures the success of an advertising campaign and evaluates the effectiveness of marketing strategies. Since it shows the ratio of ad impressions or interactions that lead to conversions, it plays an important role in the decision-making processes of advertisers, digital marketing teams, and strategists.
 
